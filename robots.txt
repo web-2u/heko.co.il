@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow: /css
+Disallow: /js
+Disallow: /images/
+Sitemap: http://www.heko.co.il/sitemap.xml

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sequence>
+  <task id="1">
+    <question>
+	    <text>how much is 1+1 ?</text>
+    </question>
+    <answer type="mc">
+	    <option id="1" correct="false">
+		    <text>1</text>
+	    </option>
+	    <option id="2" correct="true">
+		    <text>1</text>
+	    </option>
+	    <option id="3" correct="false">
+		    <text>1</text>
+	    </option>
+	    <option id="4" correct="false">
+		    <text>1</text>
+	    </option>
+    </answer>
+  </task>
+  <task id="2">
+    <question>
+      <text>how much is 1*1 ?</text>
+    </question>
+    <answer type="mc">
+      <option id="1" correct="true">
+        <text>1</text>
+      </option>
+      <option id="2" correct="false">
+        <text>1</text>
+      </option>
+      <option id="3" correct="false">
+        <text>1</text>
+      </option>
+      <option id="4" correct="false">
+        <text>1</text>
+      </option>
+    </answer>
+  </task>	
+</sequence>
